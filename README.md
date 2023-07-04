@@ -7,13 +7,24 @@ Multiple view chart:
 
 You can switch between line chart and stacked bar chart
 
-<div style="display: flex;">
-  <img src="/MultiView%20chart/BarChart.png" alt="Bar Chart" style="width: 50%;">
-  <img src="/MultiView%20chart/LineChart.png" alt="Line Chart" style="width: 50%;">
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="/MultiView%20chart/BarChart.png" alt="Bar Chart" width="60%">
+    </td>
+    <td>
+      <img src="/MultiView%20chart/LineChart.png" alt="Line Chart" width="60%">
+    </td>
+  </tr>
+</table>
 
-Bubble Chart:
-<img src="/BubbleChart/successfullChart.png" width="80%">
-
-Interactive Chart:
-<img src="/Interactive%20Visualization%20of%20Population%20data/Image.png" width="80%">
+<table>
+  <tr>
+    <td>
+      <img src="/BubbleChart/successfullChart.png" alt="Bubble Chart" width="80%">
+    </td>
+    <td>
+      <img src="/Interactive%20Visualization%20of%20Population%20data/Image.png" alt="Interactive Chart" width="80%">
+    </td>
+  </tr>
+</table>
