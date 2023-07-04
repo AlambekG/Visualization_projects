@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Interactive Bubble Chart</title>
+        <script src="https://d3js.org/d3.v6.min.js"></script>
+        <script src="https://unpkg.com/d3-simple-slider"></script>
+        <style>
+        .tooltip {
+            position: absolute;
+            padding: 8px;
+            background-color: white;
+            border: 1px solid black;
+            border-radius: 5px;
+            pointer-events: none;
+            opacity: 0;
+        }
+        </style>
+    </head>
+    <body>
+        <h1>Interactive Bubble Chart</h1>
+        <div id="chart-container"></div>
+        <div id="slider-container"></div>
+
+        <script src="main.js"></script>
+    </body>
+</html>

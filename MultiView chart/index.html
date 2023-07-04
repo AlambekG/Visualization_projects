@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <title>D3 Bar Chart</title>
+</head>
+<body>
+    <div>
+        <p>Please select the preferred view:</p>
+        <input class="RadioButtons" type="radio" id="barChart" name="chart_type" value="BarChart">
+        <label for="barChart">Stacked Bar Chart </label><br>
+        <input class="RadioButtons" type="radio" id="lineChart" name="chart_type" value="LineChart">
+        <label for="lineChart">Line Chart</label>
+    </div>
+
+    <div id="checkbox_list" style="position: absolute; right:0; overflow-y: auto;  border: 1px solid"></div>
+
+    <div id="legend"></div>
+    <input type="range" id="dateSlider" style="display:none; width: 50%"min="0" max="1000" value="0">
+    <p id="selectedDay"></p>
+
+    <div id="chart">
+        <div id="bar"></div>
+    </div>
+    <script src="/main.js"></script>
+</body>
+</html>

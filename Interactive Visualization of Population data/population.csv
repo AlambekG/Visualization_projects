@@ -1,0 +1,217 @@
+continent,region,country,population
+Africa,Northern Africa,Algeria,44616626
+Africa,Northern Africa,Egypt,91251820
+Africa,Northern Africa,Libya,6310434
+Africa,Northern Africa,Mauritania,3596702
+Africa,Northern Africa,Morocco,34300000
+Africa,Northern Africa,Sudan,35652002
+Africa,Northern Africa,Tunisia,11403248
+Africa,Southern Africa,Botswana,2141206
+Africa,Southern Africa,Lesotho,2007201
+Africa,Southern Africa,Namibia,2484780
+Africa,Southern Africa,South Africa,54300705
+Africa,Southern Africa,Swaziland,1132657
+Africa,Southern Africa,Zimbabwe,13061239
+Africa,Eastern Africa,Burundi,10114505
+Africa,Eastern Africa,Comoros,806153
+Africa,Eastern Africa,Djibouti,90000
+Africa,Eastern Africa,Eritrea,3413400
+Africa,Eastern Africa,Ethiopia,79221000
+Africa,Eastern Africa,Kenya,33860945
+Africa,Eastern Africa,Madagascar,22434363
+Africa,Eastern Africa,Malawi,10408756
+Africa,Eastern Africa,Mauritius,1286051
+Africa,Eastern Africa,Mozambique,23700715
+Africa,Eastern Africa,Rwanda,10000000
+Africa,Eastern Africa,Seychelles,90945
+Africa,Eastern Africa,Somalia,14589119
+Africa,Eastern Africa,South Sudan,8260490
+Africa,Eastern Africa,Tanzania,44928923
+Africa,Eastern Africa,Uganda,40400000
+Africa,Eastern Africa,Zambia,15023315
+Africa,Eastern Africa,Reunion,775981
+Africa,Western Africa,Benin,9099922
+Africa,Western Africa,Burkina Faso,19034397
+Africa,Western Africa,Cape Verde,531239
+Africa,Western Africa,Gambia,1776103
+Africa,Western Africa,Ghana,28206728
+Africa,Western Africa,Guinea,10057975
+Africa,Western Africa,Guinea-Bissau,1565126
+Africa,Western Africa,Ivory Coast,23202000
+Africa,Western Africa,Liberia,3685076
+Africa,Western Africa,Mali,14517176
+Africa,Western Africa,Mauritania,3596702
+Africa,Western Africa,Niger,21477348
+Africa,Western Africa,Nigeria,170123740
+Africa,Western Africa,Senegal,12534018
+Africa,Western Africa,Sierra Leone,5997486
+Africa,Western Africa,Togo,6587239
+Africa,Western Africa,St. Helena,7460
+Asia,Central Asia,Kazakhstan,17050390
+Asia,Central Asia,Kyrgyzstan,5213898
+Asia,Central Asia,Tajikistan,7804148
+Asia,Central Asia,Turkmenistan,5662544
+Asia,Central Asia,Uzbekistan,29774500
+Asia,Eastern Asia,China,1403500365
+Asia,Eastern Asia,Hong Kong,7196450
+Asia,Eastern Asia,Japan,126440000
+Asia,Eastern Asia,Macao,566375
+Asia,Eastern Asia,Mongolia,3086918
+Asia,Eastern Asia,North Korea,24451285
+Asia,Eastern Asia,South Korea,51780579
+Asia,South-Eastern Asia,Brunei,393162
+Asia,South-Eastern Asia,Cambodia,14453680
+Asia,South-Eastern Asia,Indonesia,261115456
+Asia,South-Eastern Asia,Laos,6645820
+Asia,South-Eastern Asia,Malaysia,31624264
+Asia,South-Eastern Asia,Myanmar,53855735
+Asia,South-Eastern Asia,Philippines,103320222
+Asia,South-Eastern Asia,Singapore,5612253
+Asia,South-Eastern Asia,Thailand,69037513
+Asia,South-Eastern Asia,Timor-Leste,1296311
+Asia,South-Eastern Asia,Vietnam,94569072
+Asia,Southern Asia,Afghanistan,26023100
+Asia,Southern Asia,Bangladesh,156118464
+Asia,Southern Asia,Bhutan,790949
+Asia,Southern Asia,India,1339180127
+Asia,Southern Asia,Iran,81800188
+Asia,Southern Asia,Maldives,427756
+Asia,Southern Asia,Nepal,28431500
+Asia,Southern Asia,Pakistan,197015955
+Asia,Southern Asia,Sri Lanka,20950041
+Asia,Western Asia,Armenia,3017400
+Asia,Western Asia,Azerbaijan,9416800
+Asia,Western Asia,Bahrain,1248347
+Asia,Western Asia,Cyprus,1189265
+Asia,Western Asia,Georgia,3729600
+Asia,Western Asia,Iraq,38274618
+Asia,Western Asia,Israel,8555424
+Asia,Western Asia,Jordan,9896800
+Asia,Western Asia,Kuwait,4136528
+Asia,Western Asia,Lebanon,6093509
+Asia,Western Asia,Oman,4183841
+Asia,Western Asia,Qatar,2569804
+Asia,Western Asia,Saudi Arabia,32248200
+Asia,Western Asia,Syria,18502413
+Asia,Western Asia,United Arab Emirates,9630959
+Asia,Western Asia,Yemen,27478000
+Europe,Eastern Europe,Belarus,9468000
+Europe,Eastern Europe,Bulgaria,7050034
+Europe,Eastern Europe,Czech Republic,10537818
+Europe,Eastern Europe,Hungary,9893089
+Europe,Eastern Europe,Moldova,3559500
+Europe,Eastern Europe,Poland,38104832
+Europe,Eastern Europe,Romania,19861408
+Europe,Eastern Europe,Russia,144526636
+Europe,Eastern Europe,Slovakia,5424057
+Europe,Eastern Europe,Ukraine,45190180
+Europe,Northern Europe,Channel Islands,166327
+Europe,Northern Europe,Denmark,5733551
+Europe,Northern Europe,Estonia,1315819
+Europe,Northern Europe,Finland,5497302
+Europe,Northern Europe,Iceland,356991
+Europe,Northern Europe,Ireland,4757976
+Europe,Northern Europe,Isle of Man,84497
+Europe,Northern Europe,Latvia,1952000
+Europe,Northern Europe,Lithuania,2872294
+Europe,Northern Europe,Norway,5236156
+Europe,Northern Europe,Sweden,10120242
+Europe,Northern Europe,United Kingdom,66181585
+Europe,Southern Europe,Albania,2886026
+Europe,Southern Europe,Andorra,78014
+Europe,Southern Europe,Bosnia and Herzegovina,3791622
+Europe,Southern Europe,Croatia,4087843
+Europe,Southern Europe,Gibraltar,33701
+Europe,Southern Europe,Greece,10715549
+Europe,Southern Europe,Holy See,839
+Europe,Southern Europe,Italy,62137802
+Europe,Southern Europe,Malta,429344
+Europe,Southern Europe,Montenegro,622359
+Europe,Southern Europe,North Macedonia,2083160
+Europe,Southern Europe,Portugal,10295909
+Europe,Southern Europe,San Marino,33344
+Europe,Southern Europe,Serbia,7164132
+Europe,Southern Europe,Slovenia,2066880
+Europe,Southern Europe,Spain,46439864
+Europe,Southern Europe,Western Sahara,514648
+Europe,Western Europe,Austria,8858775
+Europe,Western Europe,Belgium,11498519
+Europe,Western Europe,France,67186609
+Europe,Western Europe,Germany,82800000
+Europe,Western Europe,Liechtenstein,37624
+Europe,Western Europe,Luxembourg,590667
+Europe,Western Europe,Monaco,38499
+Europe,Western Europe,Netherlands,17035938
+Europe,Western Europe,Switzerland,8372098
+North America,Caribbean,Anguilla,14764
+North America,Caribbean,Antigua and Barbuda,86295
+North America,Caribbean,Aruba,103400
+North America,Caribbean,Bahamas,392718
+North America,Caribbean,Barbados,285000
+North America,Caribbean,British Virgin Islands,28054
+North America,Caribbean,Cayman Islands,58238
+North America,Caribbean,Cuba,11239004
+North America,Caribbean,Dominica,71293
+North America,Caribbean,Dominican Republic,10358320
+North America,Caribbean,Grenada,107317
+North America,Caribbean,Guadeloupe,402119
+North America,Caribbean,Haiti,10981229
+North America,Caribbean,Jamaica,2706500
+North America,Caribbean,Martinique,385065
+North America,Caribbean,Montserrat,4922
+North America,Caribbean,Puerto Rico,3548397
+North America,Caribbean,Saint Kitts and Nevis,46053
+North America,Caribbean,Saint Lucia,186000
+North America,Caribbean,Saint Vincent and the Grenadines,109897
+North America,Caribbean,Sint Maarten,37429
+North America,Caribbean,Trinidad and Tobago,1228691
+North America,Central America,Belize,314522
+North America,Central America,Costa Rica,4773130
+North America,Central America,El Salvador,6411558
+North America,Central America,Guatemala,16084679
+North America,Central America,Honduras,9112867
+North America,Central America,Mexico,130222815
+North America,Central America,Nicaragua,6460411
+North America,Central America,Panama,4098587
+North America,Northern America,Bermuda,65024
+North America,Northern America,Canada,36155487
+North America,Northern America,Greenland,56480
+North America,Northern America,Saint Pierre and Miquelon,6273
+North America,Northern America,United States,326766748
+Oceania,Australia and New Zealand,Australia,24598933
+Oceania,Australia and New Zealand,New Zealand,4692700
+Oceania,Melanesia,Fiji,867000
+Oceania,Melanesia,New Caledonia,284060
+Oceania,Melanesia,Papua New Guinea,8083700
+Oceania,Melanesia,Solomon Islands,583591
+Oceania,Melanesia,Vanuatu,264652
+Oceania,Micronesia,Guam,184200
+Oceania,Micronesia,Kiribati,106461
+Oceania,Micronesia,Micronesia (country),106836
+Oceania,Micronesia,Nauru,10084
+Oceania,Micronesia,Palau,17907
+Oceania,Polynesia,American Samoa,51504
+Oceania,Polynesia,Cook Islands,17380
+Oceania,Polynesia,French Polynesia,279287
+Oceania,Polynesia,Niue,1613
+Oceania,Polynesia,Pitcairn Islands,56
+Oceania,Polynesia,Samoa,194899
+Oceania,Polynesia,Tokelau,1300
+Oceania,Polynesia,Tonga,108020
+Oceania,Polynesia,Tuvalu,10200
+Oceania,Polynesia,Wallis and Futuna,12197
+South America, ,Argentina,43847430
+South America, ,Bolivia,10426154
+South America, ,Brazil,209288278
+South America, ,Chile,18054726
+South America, ,Colombia,48759958
+South America, ,Ecuador,16624858
+South America, ,Falkland Islands (Islas Malvinas),2840
+South America, ,French Guiana,282731
+South America, ,Guyana,737718
+South America, ,Paraguay,6854536
+South America, ,Peru,32165485
+South America, ,South Georgia and South Sandwich Islands,30
+South America, ,Suriname,573085
+South America, ,Uruguay,3456750
+South America, ,Venezuela,31568179
