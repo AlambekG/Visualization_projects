@@ -1,0 +1,1 @@
+<image src="successfullChart.png" width="80%">
